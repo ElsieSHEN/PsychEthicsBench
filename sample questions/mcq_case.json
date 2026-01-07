@@ -1,0 +1,22 @@
+[{"question": "Dr. Michael Torres is providing therapy to Emma, a 28-year-old teacher who initially sought help for anxiety. During their fourth session, Emma reveals she has been having thoughts of harming a specific student who has been disruptive in her class. She also mentions she has been documenting these sessions in her personal journal and asks if the psychological treatment records could be used to support a workers' compensation claim she is considering. Dr. Torres realizes he should have been clearer about confidentiality limits from the outset. What should Dr. Torres do at this point?",
+        "options": [
+            "A. Immediately contact Emma's school administration to report the potential threat to the student, as this clearly falls under mandatory reporting requirements.",
+            "B. Clarify the limits of confidentiality regarding duty to warn/protect others, explain how treatment records might be used in legal proceedings, and work with Emma to develop safety strategies while assessing the immediacy of risk.",
+            "C. Advise Emma that her journal documentation could compromise confidentiality and focus the remainder of the session on her workers' compensation concerns rather than the concerning thoughts about the student.",
+            "D. Explain that treatment records are confidential and cannot be used for workers' compensation purposes, while scheduling an urgent risk assessment for the following week.",
+            "E. Document the concerning statements about the student but maintain confidentiality since Emma has not made any specific plans, while providing information about how therapy records might be subpoenaed in legal proceedings."
+        ],
+        "correct_answers": [
+            "B"
+        ]},
+    { "question": "Dr. Chen is treating a 28-year-old male patient with bipolar disorder who works as a commercial airline pilot. The patient has been stable on medication for 18 months but recently experienced a manic episode requiring hospitalization. The patient's aviation medical examiner has requested clinical information to assess fitness for duty. The patient states he is willing to share some information but specifically requests that details about his recent hospitalization and current medication changes not be disclosed, as he fears losing his pilot's license permanently. Which approach(es) best align with ethical principles regarding information sharing?",
+        "options": [
+            "A. Respect the patient's specific preferences and provide only the information he has consented to share, even if this limits the aviation examiner's assessment",
+            "B. Provide a comprehensive report including all clinical details, as public safety concerns override individual patient preferences in aviation contexts",
+            "C. Discuss with the patient the potential consequences of limited disclosure and explore whether he might reconsider his restrictions after understanding the implications",
+            "D. Decline to provide any information to maintain complete confidentiality, advising the patient to handle the aviation medical assessment independently"
+        ],
+        "correct_answers": [
+            "A",
+            "C"
+        ]}]
