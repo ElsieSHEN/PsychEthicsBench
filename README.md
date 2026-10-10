@@ -2,9 +2,8 @@
 
 PsychEthicsBench is a principle-grounded benchmark for evaluating large language models against Australian psychology and psychiatry ethics. It contains multiple-choice questions (MCQs) for ethical knowledge, open-ended questions (OEQs) for model behaviour, the principles used to construct the benchmark, and a small human-annotated response set.
 
-This is the complete public v1.0.0 dataset. MCQ answers and labels are intentionally public.
-
-Paper: [PsychEthicsBench: Evaluating Large Language Models Against Australian Mental Health Ethics](https://aclanthology.org/2026.findings-acl.1971/) (Findings of ACL 2026), Huggingface [ElsieYaling/PsychEthicsBench](https://huggingface.co/datasets/ElsieYaling/PsychEthicsBench).
+Paper: [PsychEthicsBench: Evaluating Large Language Models Against Australian Mental Health Ethics](https://aclanthology.org/2026.findings-acl.1971/) (ACL 2026)
+Huggingface [ElsieYaling/PsychEthicsBench](https://huggingface.co/datasets/ElsieYaling/PsychEthicsBench).
 
 ## Dataset configurations
 
