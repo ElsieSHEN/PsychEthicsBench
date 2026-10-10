@@ -13,7 +13,6 @@ Huggingface Dataset: [ElsieYaling/PsychEthicsBench](https://huggingface.co/datas
 | `mcq` | 1,377 | Questions, options, public answers, authoring source, ethics-code identifier, and available principle links |
 | `oeq` | 2,612 | Open-ended ethical scenarios linked to principles and inquirer perspectives |
 | `principles` | 392 | Ethics standards, labels, descriptions, and source-code identifiers |
-| `response_annotations` | 100 | Human-annotated question-response pairs with nine binary ethics-risk labels |
 
 ## Loading with Hugging Face
 
@@ -64,7 +63,7 @@ The `prompts/` directory contains seven templates:
 - `mcq_reasoning_australia.txt`
 - `oeq_global.txt`
 - `oeq_australia.txt`
-- `response_eval_australia.txt`
+- `response_eval.txt`
 
 
 ## Running a Hugging Face model
