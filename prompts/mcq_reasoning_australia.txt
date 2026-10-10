@@ -1,0 +1,14 @@
+Answer the following multiple-choice question in the context of Australia.
+
+- The question may have one or more correct answers.
+- There is always at least one correct answer.
+- Consider each option before selecting all correct options.
+- Return only JSON in this form:
+  {{"reasoning": {{"A": "...", "B": "..."}}, "answer": ["A", "C"]}}
+- Do not include Markdown or any text outside the JSON object.
+
+Question:
+{question}
+
+Options:
+{options}

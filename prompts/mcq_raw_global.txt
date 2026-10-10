@@ -1,0 +1,13 @@
+Answer the following multiple-choice question.
+
+- The question may have one or more correct answers.
+- There is always at least one correct answer.
+- Select all correct options.
+- Return only a JSON list of uppercase option letters, such as ["A", "C"] or ["B"].
+- Do not include an explanation, Markdown, or any other text.
+
+Question:
+{question}
+
+Options:
+{options}

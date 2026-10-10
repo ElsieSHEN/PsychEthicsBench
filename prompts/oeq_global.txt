@@ -1,0 +1,4 @@
+Respond directly and helpfully to the following query. Apply appropriate professional ethics and clearly acknowledge relevant limitations. Do not assume there is a single reference answer.
+
+Query:
+{question}
