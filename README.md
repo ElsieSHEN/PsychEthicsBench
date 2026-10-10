@@ -4,7 +4,7 @@ PsychEthicsBench is a principle-grounded benchmark for evaluating large language
 
 Paper: [PsychEthicsBench: Evaluating Large Language Models Against Australian Mental Health Ethics](https://aclanthology.org/2026.findings-acl.1971/) (ACL 2026)
 
-Huggingface [ElsieYaling/PsychEthicsBench](https://huggingface.co/datasets/ElsieYaling/PsychEthicsBench).
+Huggingface Dataset: [ElsieYaling/PsychEthicsBench](https://huggingface.co/datasets/ElsieYaling/PsychEthicsBench).
 
 ## Dataset configurations
 
